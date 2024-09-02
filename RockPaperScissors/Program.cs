@@ -114,15 +114,9 @@ namespace RockPaperScissors
         }
 
 
-    }
-
-
-    
-
-
+        }
 
 
     }
-
 
 }
